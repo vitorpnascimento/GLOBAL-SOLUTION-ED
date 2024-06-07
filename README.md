@@ -1,4 +1,4 @@
-#info wave - Monitoramento da Qualidade da Água
+#info wave - Monitoramento de dados
 
 ## Descrição do Projeto
 Este projeto utiliza a plataforma ESP32 e sensores para monitorar dados do litoral, abordando problemas de poluição marinha. Os dados são coletados e enviados para uma plataforma de visualização para conscientização pública.
