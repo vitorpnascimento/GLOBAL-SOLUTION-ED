@@ -1,4 +1,7 @@
 #info wave - Monitoramento de dados
+## integrantes do projéto
+Vitor Pinheiro - rm553693
+Pedro Chaves - rm553988
 
 ## Descrição do Projeto
 Este projeto utiliza a plataforma ESP32 e sensores para monitorar dados do litoral, abordando problemas de poluição marinha. Os dados são coletados e enviados para uma plataforma de visualização para conscientização pública.
@@ -8,7 +11,7 @@ Este projeto utiliza a plataforma ESP32 e sensores para monitorar dados do litor
 - Sensor de Temperatura e Umidade DHT22
 
 ## Instruções de Uso
-1. Clone este repositório: `git clone https://github.com/yourusername/oceanguard.git`
+1. Clone este repositório: `https://github.com/vitorpnascimento/GLOBAL-SOLUTION-ED.git`
 2. Instale as bibliotecas necessárias:
    - `DHT sensor library for ESPx`
    - `PubSubClient`
