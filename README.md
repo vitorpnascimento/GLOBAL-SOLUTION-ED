@@ -1,5 +1,5 @@
 #info wave - Monitoramento de dados
-## integrantes do projéto
+## Integrantes do Projeto
 Vitor Pinheiro - rm553693
 Pedro Chaves - rm553988
 
